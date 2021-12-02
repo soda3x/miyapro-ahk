@@ -16,7 +16,7 @@ Media Controls
 
 `Ctrl` + `Shift` + `;`: Volume Down
 
-`Ctrl` + `Shift` + `;`: Volume Up
+`Ctrl` + `Shift` + `'`: Volume Up
 
 `Ctrl` + `Shift` + `M`: Mute
 
